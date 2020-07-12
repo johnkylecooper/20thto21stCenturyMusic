@@ -1,0 +1,2 @@
+# 20th to 21st Century Music Twitter Bot
+This GitHub repository is for my python code that runs my *20th to 21st Century Music Bot*. The twitter bot takes a random song from a random year listed in on [playback.fm](https://playback.fm/). The respository was made to clone the code to my Raspberry Pi; however, it is also used to share my code with others to learn more about web scraping and creating twitter bots!
